@@ -5,7 +5,7 @@
 
     <context-param>
         <param-name>orgUrl</param-name>
-        <param-value>https://{yourOktaDomain}</param-value>
+        <param-value>https://narisak.oktapreview.com</param-value>
     </context-param>
 
     <listener>
